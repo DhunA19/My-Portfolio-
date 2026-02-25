@@ -80,4 +80,4 @@ To secure a challenging position in a growth-oriented organization where I can a
 
 📧 Email: acharyadhun@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/dhun-acharya-38a020375
-💻 GitHub: DhunA2002
+💻 GitHub: https://github.com/DhunA19/My-Portfolio-.git
