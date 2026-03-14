@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dhun Acharya
 
-🎓 MCA Student | 💻 Web Developer | 🤖 FULL STACK DEVELOPER 
+🎓 MCA | 💻 Web Developer | 🤖 FULL STACK DEVELOPER 
 📍 Ahmedabad, India  
 
 ---
@@ -46,10 +46,10 @@ I have completed internship training where I worked on project development, test
 
 ### 🔹 Job Portal Website
 Developed a web-based job portal system where users can register, log in, and apply for jobs.  
-**Technologies Used:** HTML, CSS, JavaScript, PHP, MySQL.
+**Technologies Used:** HTML, CSS, JavaScript, React, Node.Js, MongoDB
 
-### 🔹 AI-Based Academic Project
-Worked on AI concepts and tools with implementation, testing, and documentation.
+### 🔹 Online Pc-Mart System
+Budget Range Buying Leptop And Parts 
 
 ---
 
