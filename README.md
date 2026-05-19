@@ -1,83 +1,189 @@
-# 👋 Hi, I'm Dhun Acharya
+👋 Hi, I'm Dhun Acharya
 
-🎓 MCA | 💻 Web Developer | 🤖 FULL STACK DEVELOPER 
-📍 Ahmedabad, India  
+🎓 MCA Student | 💻 Web Developer | 🤖 Full Stack Developer
+📍 Ahmedabad, India
+
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
-I am a passionate MCA student with strong interest in Web Development, Artificial Intelligence, and Cloud Technologies.  
-I enjoy building practical, real-world projects and continuously improving my technical and problem-solving skills.
+I am a passionate MCA student with a strong interest in Web Development, Artificial Intelligence, and Cloud Technologies.
+I enjoy building practical, real-world applications and continuously improving my technical and problem-solving skills.
 
 I have completed internship training where I worked on project development, testing, enhancement, and documentation under professional guidance.
 
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-- C  
-- C++  
-- Java  
-- Python  
-- JavaScript  
-
-### 🌐 Web Technologies
-- HTML5  
-- CSS3  
-- Bootstrap  
-- PHP  
-- MySQL  
-
-### 🤖 AI & Cloud
-- Machine Learning (Basics)  
-- Artificial Intelligence Tools  
-- AWS Cloud Fundamentals  
-
-### 🧰 Tools
-- Git & GitHub  
-- VS Code  
-- MS Office  
 
 ---
 
-## 📂 Projects
+🛠️ Technical Skills
 
-### 🔹 Job Portal Website
-Developed a web-based job portal system where users can register, log in, and apply for jobs.  
-**Technologies Used:** HTML, CSS, JavaScript, React, Node.Js, MongoDB
+💻 Programming Languages
 
-### 🔹 Online Pc-Mart System
-Budget Range Buying Leptop And Parts 
+C
+
+C++
+
+Java
+
+Python
+
+JavaScript
+
+
+🌐 Web Development Technologies
+
+HTML5
+
+CSS3
+
+Bootstrap
+
+React.js
+
+Node.js
+
+Express.js
+
+PHP
+
+MongoDB
+
+MySQL
+
+
+🤖 AI & Cloud Technologies
+
+Machine Learning (Basics)
+
+Artificial Intelligence Tools
+
+AWS Cloud Fundamentals
+
+
+🧰 Tools & Platforms
+
+Git & GitHub
+
+VS Code
+
+MS Office
+
+Postman
+
+
 
 ---
 
-## 💼 Internship Experience
+📂 Projects
 
-**Intern – AMDOX Technology**
-- Assisted in project enhancement and testing  
-- Performed documentation and refinement  
-- Contributed to final development phase  
+🔹 Job Portal Website
+
+Developed a full-stack web-based job portal platform that connects job seekers with recruiters through an efficient and user-friendly system. The platform allows users to create accounts, manage profiles, search for jobs, and apply online, while recruiters can post and manage job vacancies.
+
+Features:
+
+User Registration & Login Authentication
+
+Job Search & Filtering System
+
+Online Job Application Functionality
+
+Recruiter Job Posting Dashboard
+
+Profile Management System
+
+Responsive and User-Friendly Interface
+
+
+Technologies Used:
+
+HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB
+
 
 ---
 
-## 🏆 Certifications & Achievements
+🔹 Certificate Verification System
 
-- Artificial Intelligence Achievement Certification  
-- AWS Learning Achievement  
-- Participation in Technical Workshops and Seminars  
+Developed a secure certificate verification system that allows users and organizations to verify certificates digitally using unique verification IDs.
+
+Features:
+
+Certificate Authentication
+
+Secure Verification Process
+
+User-Friendly Interface
+
+Database Management
+
+
+Technologies Used:
+
+HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+
 
 ---
 
-## 🎯 Career Objective
+🔹 Online PC-Mart System
 
-To secure a challenging position in a growth-oriented organization where I can apply my technical skills, enhance my knowledge, and contribute effectively to organizational success.
+Developed an online PC-Mart platform for purchasing laptops, computer parts, and accessories within different budget ranges.
+
+Features:
+
+Product Listings
+
+Budget-Based Search
+
+User-Friendly Interface
+
+Product Management
+
+
+Technologies Used:
+
+HTML, CSS, JavaScript, Spring Boot, MySQL
+
 
 ---
 
-## 📫 Contact Me
+💼 Internship Experience
 
-📧 Email: acharyadhun@gmail.com 
-🔗 LinkedIn: https://www.linkedin.com/in/dhun-acharya-38a020375
-💻 GitHub: https://github.com/DhunA19/My-Portfolio-.git
+Intern – AMDOX Technology
+
+Assisted in project enhancement and testing
+
+Performed documentation and refinement
+
+Contributed to the final development phase
+
+Worked collaboratively with the development team on real-world projects
+
+
+
+---
+
+🏆 Certifications & Achievements
+
+Artificial Intelligence Achievement Certification
+
+AWS Learning Achievement
+
+Participation in Technical Workshops and Seminars
+
+
+
+---
+
+🎯 Career Objective
+
+To secure a challenging position in a growth-oriented organization where I can apply my technical skills, enhance my knowledge, and contribute effectively to organizational success while continuously learning new technologies.
+
+
+---
+
+📫 Contact Me
+
+📧 Email: acharyadhun@gmail.com
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dhun-acharya-38a020375?utm_source=chatgpt.com)
+💻 GitHub: [GitHub Portfolio](https://github.com/DhunA19/My-Portfolio-.git?utm_source=chatgpt.com)
