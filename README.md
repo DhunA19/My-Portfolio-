@@ -188,3 +188,5 @@ To secure a challenging position in a growth-oriented organization where I can a
 📧 Email: acharyadhun@gmail.com
 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dhun-acharya-38a020375?utm_source=chatgpt.com)
 💻 GitHub: [GitHub Portfolio](https://github.com/DhunA19/My-Portfolio-.git?utm_source=chatgpt.com)
+    My Contact Number:9408398844
+    Dhun_Resume:https://bit.ly/DhunAcharya_Resume
