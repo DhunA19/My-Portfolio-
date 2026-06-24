@@ -166,11 +166,12 @@ Worked collaboratively with the development team on real-world projects
 
 🏆 Certifications & Achievements
 
-Artificial Intelligence Achievement Certification
-
-AWS Learning Achievement
-
-Participation in Technical Workshops and Seminars
+I have completed many certification courses in Extracurricular Activities and all my certificates are 
+included in my LinkedIn profile.
+I have SkillIndia Course Certificate In Big - Data Foundation and Cloud Essentials.
+I have the Microsoft AzureAI Fundamentals Certificate From NASSCOM. 
+I have the ”Draw with Google” Certificate From Applied Digital Skills.
+I have a government-approved Certificate in Course on Computer Concept. (CCC)
 
 
 
@@ -181,6 +182,11 @@ Participation in Technical Workshops and Seminars
 To secure a challenging position in a growth-oriented organization where I can apply my technical skills, enhance my knowledge, and contribute effectively to organizational success while continuously learning new technologies.
 
 
+💬 Communication Languages
+   Fluent in English (Verbal & Written)
+   Conversational in Hindi
+   Native Proficiency in Gujarati
+
 ---
 
 📫 Contact Me
@@ -188,5 +194,6 @@ To secure a challenging position in a growth-oriented organization where I can a
 📧 Email: acharyadhun@gmail.com
 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dhun-acharya-38a020375?utm_source=chatgpt.com)
 💻 GitHub: [GitHub Portfolio](https://github.com/DhunA19/My-Portfolio-.git?utm_source=chatgpt.com)
-    My Contact Number:9408398844
-    Dhun_Resume:https://bit.ly/DhunAcharya_Resume
+📱 Phone: 9408398844
+📄 Resume: DhunAcharya_Resume
+🔗 Resume Link: https://bit.ly/DhunAcharya_Resume
