@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="WhatsApp Image 2026-06-24 at 12 09 51 PM" src="https://github.com/user-attachments/assets/67903e77-832b-4326-8f66-af1e20bae976" />
 👋 Hi, I'm Dhun Acharya
 
 🎓 MCA Student | 💻 Web Developer | 🤖 Full Stack Developer
